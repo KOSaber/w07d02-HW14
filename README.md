@@ -1,4 +1,4 @@
-# POSTMAN Instulation-HW14
+# POSTMAN Install-HW14
 
 ### For You Homework Today Do The Following:
 1- **Read about PostMan** [Here](https://www.getpostman.com/) <br>
